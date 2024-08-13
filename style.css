@@ -70,6 +70,7 @@ section {
   font-size: 1.25rem;
   line-height: 1.5;
   margin-bottom: var(--spacing);
+  border-radius: 20px;
 }
 
 blockquote {
